@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teld_green">#00B856</color>
+    <color name="teld_green_dark">#009546</color>
+    <color name="teld_bg">#F5F6F7</color>
+    <color name="teld_text_main">#1A1A1A</color>
+    <color name="teld_text_sub">#8A8F99</color>
+    <color name="white">#FFFFFF</color>
+</resources>

@@ -1,0 +1,25 @@
+# Android / Gradle
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# 构建产物 / 密钥（不要提交）
+*.apk
+*.aab
+*.jks
+*.keystore
+*.log
+
+# 本机调试用文件（可能含真实令牌/会话，切勿提交）
+live_session.json
+netlog.txt
+teld_flows.txt
+hosts.log
+tls_fail.log

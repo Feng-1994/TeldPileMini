@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TeldPileMini" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/teld_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/teld_green</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
