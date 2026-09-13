@@ -4,6 +4,14 @@
 
 官方的特来电 App 功能很多、启动慢、广告多；这个 App 打开就是你的那一根桩，一屏搞定，并且**登录一次就够**（令牌到期自动续期，不用反复收短信验证码）。
 
+<p align="center">
+  <img src="docs/screenshots/01-login.png" width="240" alt="登录页">
+  <img src="docs/screenshots/02-main-idle.png" width="240" alt="主界面：桩状态与启停">
+  <img src="docs/screenshots/03-charging.png" width="240" alt="充电中：实时功率/电压/电流/电量/时长">
+</p>
+
+> 截图中桩号、订单号、开始时间均已打码。
+
 > 逆向自官方 App v7.16.0 的云端协议（HTTPS 表单 + 自定义签名/加密），全部接口均已实测跑通。
 > 仅供个人学习与自用，请遵守特来电的用户协议；「特来电」相关商标归特来电新能源股份有限公司所有。
 
